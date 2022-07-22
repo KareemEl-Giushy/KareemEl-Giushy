@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [Resume](https://bit.ly/3RU2HCr)
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemel-giushy" alt="kareemel-giushy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemel-giushy&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true" alt="kareemel-giushy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
