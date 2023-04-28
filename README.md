@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://twitter.com/KGiushy" target="blank"><img src="https://img.shields.io/twitter/follow/kgiushy?logo=twitter&style=for-the-badge" alt="kgiushy" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Full Stack Projects && Cloud Projects**
 
-- 🌱 I’m currently learning **Vuejs, Machine Learning With TensorFlow**
+- 🌱 I’m currently learning **Vuejs, DevOps**
 
 - 💬 Ask me about **Laravel, Software Design, Deployment**
 
-- 📄 Know about my experiences [Resume](https://bit.ly/3RU2HCr)
+- 📄 Know about my experiences [Resume](https://bit.ly/41L6u9I)
 <br />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareemel-giushy&theme=gruvbox&margin-w=10&margin-h=10&no-frame=true&row=2&column=3" alt="kareemel-giushy" /></a> </p>
