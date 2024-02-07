@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects && Cloud Projects**
 
-- 🌱 I’m currently learning **Vuejs, DevOps**
+- 🌱 I’m currently learning **Angular, DevOps**
 
 - 💬 Ask me about **Laravel, Software Design, Deployment**
 
